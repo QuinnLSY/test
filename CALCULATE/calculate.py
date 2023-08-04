@@ -126,6 +126,8 @@ def clear():
 
 # 返回，button_back的用法
 def back():
+    if len(button_set) == 0:
+        return
     result_num.set(button_set.pop())
 
 
