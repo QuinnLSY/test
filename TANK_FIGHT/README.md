@@ -8,16 +8,15 @@
 
 error:关闭窗口时，初始页再次显示，而不是显示游戏结束页
 
-Description: Two-player battle tank shooting mini-game
 
+
+Description: Two-player battle tank shooting mini-game
 
                        W-on
 Operation: P1: A-Left S-Down D-Right   Space-Shoot
 
-
                   ⬆️
            P2: ⬅️ ⬇️ ➡️    P-Shoot
-
 
 error: When you close the window, the start page is displayed instead of the game end page
 
